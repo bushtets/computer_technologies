@@ -1,3 +1,3 @@
 # computer_technologies
 
-link: 
+link: https://bushtets.github.io/computer_technologies/
